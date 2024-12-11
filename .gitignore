@@ -26,3 +26,7 @@
 
 !CMakeLists.txt
 !LICENSES/*.txt
+
+# Bazel
+MODULE.bazel.lock
+bazel-*
